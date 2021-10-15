@@ -3,6 +3,7 @@ from util import mod_inv
 
 
 def decode(cipher, key):
+    
     #TODO
     '''
     Decode cipher with public key.
